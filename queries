@@ -1,0 +1,11 @@
+-- Part 1 - SQL queries
+-- 1. Create a report that shows the CategoryName and Description from the categories table sorted by CategoryName.
+-- 2. Create a report that shows the ContactName, CompanyName, ContactTitle and Phone number from the customers table sorted by Phone.
+-- 3. Create a report that shows the capitalized FirstName and capitalized LastName renamed as FirstName and Lastname respectively and HireDate from the employees table sorted from the newest to the oldest employee.
+-- 4. Create a report that shows the top 10 OrderID, OrderDate, ShippedDate, CustomerID, Freight from the orders table sorted by Freight in descending order.
+-- 5. Create a report that shows all the CustomerID in lowercase letter and renamed as ID from the customers table.
+-- 6. Create a report that shows the CompanyName, Fax, Phone, Country, HomePage from the suppliers table sorted by the Country in descending order then by CompanyName in ascending order.
+-- 7. Create a report that shows CompanyName, ContactName of all customers from ‘Buenos Aires' only.
+-- 8. Create a report showing ProductName, UnitPrice, QuantityPerUnit of products that are out of stock.
+-- 9. Create a report showing all the ContactName, Address, City of all customers not from Germany, Mexico, Spain.
+-- 10. Create a report showing OrderDate, ShippedDate, CustomerID, Freight of all orders placed on 21 May 1996.
